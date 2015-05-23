@@ -4,4 +4,4 @@ WORKDIR /src
 ADD . .
 
 EXPOSE 80
-CMD ["node", "smpl.js"]
+CMD ["node", "smplsvc.js"]
